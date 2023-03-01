@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi Everyone! 👋🏻
 
-<!--
-**jackli-techdev/jackli-techdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a JackLi, Full Stack Developer - IEEE UET Lahore & Planning Committee at AWS Community aimed at developing communities and empowering the youth.
 
-Here are some ideas to get you started:
+I've worked as Front-end & Back-end developer for the past 2 years and now transitioning towards Cloud/DevOps Engineering. Meanwhile I'm also a freelancer doing various projects in Ai/ML. 🚀☁️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to this, having a product oriented mindset I've won & arranged multiple Hackathons introducing innovative products and further providing assistance to bring new ones into the eco-system 🦾
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,js,html,css" />
+  </a>
+</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackli-techdev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jackli-techdev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jackli-techdev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jackli-techdev&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jackli-techdev&theme=github_dark&utcOffset=8)
+     
